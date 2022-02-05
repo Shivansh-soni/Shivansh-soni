@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SHIVANSH SONI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="hhttps://www.instagram.com/p/CV-3vWGs3yH/?utm_source=ig_web_copy_link" alt="shivansh-soni" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+<p align="left">  </p>
+
 
 - 🔭 I’m currently working on **Weather App**
 

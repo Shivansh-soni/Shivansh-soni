@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Weather App**
 
-- 🌱 I’m currently learning **HTML , CSS , JS**
+- 🌱 I’m currently learning **Tailwind CSS , ReactJS** and have a great knowledge of **HTML5 , CSS3 , Javascript**
 
 - 👨‍💻 You can also check my Portfolio at [shivanshsoni.com](shivanshsoni.com)
 

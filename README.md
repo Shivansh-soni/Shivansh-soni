@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Weather App**
 
-- 🌱 I’m currently learning **Tailwind CSS , ReactJS** and have a great knowledge of **HTML5 , CSS3 , Javascript**
+- 🌱 I’m currently learning **MERN Stack** and currently I am a **React Developer**
 
 - 👨‍💻 You can also check my Portfolio at [shivanshsoni.com](shivanshsoni.com)
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack** and currently I am a **React Developer**
 
-- 👨‍💻 You can also check my Portfolio at [shivanshsoni.com](www.shivanshsoni.com)
+- 👨‍💻 You can also check my Portfolio at [shivanshsoni.com](www.shivanshsoni.in)
 
 - 💬 Ask me about **CSS**
 

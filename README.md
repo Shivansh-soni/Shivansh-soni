@@ -4,11 +4,11 @@
 <p align="left">  </p>
 
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working at **YouEkko Pvt. Ltd. **
 
 - 🌱 I’m currently learning **MERN Stack** and currently I am a **React Developer**
 
-- 👨‍💻 You can also check my Portfolio at [shivanshsoni.com](www.shivanshsoni.in)
+- 👨‍💻 You can also check my Portfolio at [shivanshsoni.in](www.shivanshsoni.in)
 
 - 💬 Ask me about **CSS**
 

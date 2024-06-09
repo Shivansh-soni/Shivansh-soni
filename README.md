@@ -8,7 +8,7 @@
 
 - 🌱 currently I am a **Full Stack Developer**
 
-- 👨‍💻 You can also check my Portfolio at [shivanshsoni.in](www.shivanshsoni.in)
+- 👨‍💻 You can also check my Portfolio at [shivanshsoni.in](https://www.shivanshsoni.in)
 
 - 💬 Ask me about **CSS**
 

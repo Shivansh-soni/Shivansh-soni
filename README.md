@@ -4,7 +4,7 @@
 <p align="left">  </p>
 
 
-- 🔭 I’m currently working at **YouEkko Pvt. Ltd. **
+- 🔭 I’m currently working at **VKAPS IT Solutions Pvt LTD**
 
 - 🌱 I’m currently learning **MERN Stack** and currently I am a **React Developer**
 

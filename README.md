@@ -10,7 +10,7 @@
 
 - 👨‍💻 You can also check my Portfolio at [shivanshsoni.in](https://shivanshsoni.in)
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **FRONTEND DEVELOPMENT**
 
 - 📫 How to reach me **shivanshsoni2091@gmail.com**
 

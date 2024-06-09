@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **VKAPS IT Solutions Pvt LTD**
 
-- 🌱 I’m currently learning **MERN Stack** and currently I am a **React Developer**
+- 🌱 currently I am a **Full Stack Developer**
 
 - 👨‍💻 You can also check my Portfolio at [shivanshsoni.in](www.shivanshsoni.in)
 
